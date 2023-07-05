@@ -1,2 +1,2 @@
-# pipeline-for-MNIST
+# pipeline-for-MNIST-recognition
 MNiST Recognition with Resnet
